@@ -32,7 +32,7 @@ At the end of a round, the user can:
 
 ## How to Run
 1. Make sure you have Python 3 installed.
-2. Copy the code into a file named `kelime_oyunu.py`.
+2. Copy the code into a file named `word_guessing.py`.
 3. Run the script using a terminal:
    ```bash
    python word_guessing.py
