@@ -1,6 +1,4 @@
 # word-guessing-game-in-python
-# Word Guessing Game (Terminal-based Python Game)
-
 ## Description
 This is a simple, terminal-based word guessing game developed in Python.  
 It selects a random word from a list of common computer science terms such as `function`, `dataset`, `network`, etc. The user tries to guess the word one letter at a time, similar to the traditional "Hangman" game.
